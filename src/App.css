@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  background: #081031;
+}
+
+/* Centraliza tudo */
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* Card estilizado */
+.ticket-card {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+  width: 340px;
+  overflow: hidden;
+  transition: transform 0.2s ease;
+}
+
+.ticket-card:hover {
+  transform: translateY(-6px);
+}
+
+.ticket-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.ticket-content {
+  padding: 20px;
+  text-align: left;
+}
+
+.ticket-content h2 {
+  color: #2c3e50;
+  font-size: 1.4rem;
+  margin-bottom: 12px;
+}
+
+.ticket-content p {
+  color: #555;
+  margin: 6px 0;
+  font-size: 0.95rem;
+}
+
+.ticket-price {
+  color: #16a34a;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.ticket-content button {
+  margin-top: 15px;
+  width: 100%;
+  background: #4f46e5;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.2s ease;
+}
+
+.ticket-content button:hover {
+  background: #4338ca;
+}
