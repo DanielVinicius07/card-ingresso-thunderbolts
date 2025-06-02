@@ -20,6 +20,9 @@ Layout responsivo
 
 Código limpo e modular
 
+👨‍🏫 Orientação
+Este projeto foi desenvolvido sob a orientação de Luan Oliveira.
+
 🛠️ Como Executar Localmente
 Clone o repositório:
 
