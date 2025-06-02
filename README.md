@@ -23,7 +23,7 @@ Código limpo e modular
 🛠️ Como Executar Localmente
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/DanielVinicius07/card-ingresso-thunderbolts
 Acesse o diretório do projeto:
 
 cd nome-do-projeto
