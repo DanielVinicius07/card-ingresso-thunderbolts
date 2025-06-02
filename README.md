@@ -2,8 +2,7 @@
 Este projeto é um componente interativo desenvolvido com React + Vite, que simula a compra de ingresso para o filme Thunderbolts. A proposta é oferecer uma interface moderna e responsiva como exercício prático de desenvolvimento com React e estilização em CSS.
 
 🔗 Acesse o projeto online:
-👉 thunderbolts-ingressos.vercel.app
-(Altere o link acima para o seu real, se necessário)
+👉 card-ingresso-thunderbolts.vercel.app/
 
 🚀 Tecnologias Utilizadas
 React
