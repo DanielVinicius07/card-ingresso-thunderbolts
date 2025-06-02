@@ -1,12 +1,41 @@
-# React + Vite
+🎟️ Card de Compra – Filme Thunderbolts
+Este projeto é um componente interativo desenvolvido com React + Vite, que simula a compra de ingresso para o filme Thunderbolts. A proposta é oferecer uma interface moderna e responsiva como exercício prático de desenvolvimento com React e estilização em CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Acesse o projeto online:
+👉 thunderbolts-ingressos.vercel.app
+(Altere o link acima para o seu real, se necessário)
 
-Currently, two official plugins are available:
+🚀 Tecnologias Utilizadas
+React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vite
 
-## Expanding the ESLint configuration
+CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 Funcionalidades
+Card com informações sobre o filme Thunderbolts
+
+Botão de “Comprar Ingresso” estilizado
+
+Layout responsivo
+
+Código limpo e modular
+
+🛠️ Como Executar Localmente
+Clone o repositório:
+
+git clone https://github.com/seu-usuario/seu-repositorio.git
+Acesse o diretório do projeto:
+
+cd nome-do-projeto
+Instale as dependências:
+
+npm install
+Inicie o servidor de desenvolvimento:
+
+npm run dev
+Acesse em:
+http://localhost:5173
+
+👤 Desenvolvedor
+Projeto criado por Daniel Vinicius como prática individual de desenvolvimento com React e CSS, utilizando o Vite para estruturação moderna e rápida.
